@@ -949,7 +949,7 @@ section {
 }
 
 .testimonials .testimonial-item .stars i {
-  color: #ffc107;
+  color: #e2c15c;
   margin: 0 1px;
 }
 
@@ -1221,7 +1221,7 @@ section {
 .hero {
   width: 100%;
   position: relative;
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/hero-bg.webp) center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/hero-bg.webp) center center;
   background-size: cover;
   padding: 60px 0 0 0;
 }
